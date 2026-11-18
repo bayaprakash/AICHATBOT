@@ -14,6 +14,7 @@ Market focus: **India (NSE/BSE)** with a few global reference names. Say so if y
 | 7 | [07_early_plays_verified_nov2026.md](07_early_plays_verified_nov2026.md) | Early-play shortlist checked against Q2 FY27 results/news |
 | 8 | [08_valuation_and_management_check.md](08_valuation_and_management_check.md) | Valuation + management/governance check of the four early plays |
 | 9 | [09_beyond_ai_problem_solving_sectors.md](09_beyond_ai_problem_solving_sectors.md) | Deep-tech / problem-solving sectors beyond AI, with a method to dig out more |
+| 10 | [10_stock_by_stock_positive_negative.md](10_stock_by_stock_positive_negative.md) | Every stock named so far: how it gains (+) and loses (−), with Q2 FY27 evidence where found |
 
 ## Read this first (honesty note)
 - **Not investment advice.** Names are *research candidates to investigate*, not buy calls.
