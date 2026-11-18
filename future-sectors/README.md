@@ -15,6 +15,7 @@ Market focus: **India (NSE/BSE)** with a few global reference names. Say so if y
 | 8 | [08_valuation_and_management_check.md](08_valuation_and_management_check.md) | Valuation + management/governance check of the four early plays |
 | 9 | [09_beyond_ai_problem_solving_sectors.md](09_beyond_ai_problem_solving_sectors.md) | Deep-tech / problem-solving sectors beyond AI, with a method to dig out more |
 | 10 | [10_stock_by_stock_positive_negative.md](10_stock_by_stock_positive_negative.md) | Every stock named so far: how it gains (+) and loses (−), with Q2 FY27 evidence where found |
+| 11 | [11_micro_sector_and_ipo_check.md](11_micro_sector_and_ipo_check.md) | Micro-sector niches, new IPOs (Tonbo, Avaada Electro, Garuda), SME-IPO risks and an IPO checklist |
 
 ## Read this first (honesty note)
 - **Not investment advice.** Names are *research candidates to investigate*, not buy calls.
