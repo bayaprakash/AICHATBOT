@@ -18,6 +18,7 @@ Market focus: **India (NSE/BSE)** with a few global reference names. Say so if y
 | 11 | [11_micro_sector_and_ipo_check.md](11_micro_sector_and_ipo_check.md) | Micro-sector niches, new IPOs (Tonbo, Avaada Electro, Garuda), SME-IPO risks and an IPO checklist |
 | 12 | [12_overlooked_diamond_in_dust_sectors.md](12_overlooked_diamond_in_dust_sectors.md) | Overlooked/boring sectors (recycling, medical devices, specialty chemicals, TIC) and a diamond-vs-trap screen |
 | 13 | [13_gap_closure_and_remaining_gaps.md](13_gap_closure_and_remaining_gaps.md) | Previously unchecked names now covered (recycling, defence, solar, medical devices, peptide CDMOs) plus what is still missing |
+| 14 | [14_sai_life_sciences_deep_dive.md](14_sai_life_sciences_deep_dive.md) | Full research on Sai Life Sciences: sector comparison, business model, products, story, problem solved, independent views, dynamic fundamentals |
 
 ## Read this first (honesty note)
 - **Not investment advice.** Names are *research candidates to investigate*, not buy calls.
