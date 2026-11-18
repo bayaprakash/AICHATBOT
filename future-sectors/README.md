@@ -12,6 +12,7 @@ Market focus: **India (NSE/BSE)** with a few global reference names. Say so if y
 | 6 | [06_barrier_management_risk_scorecard.md](06_barrier_management_risk_scorecard.md) | High barrier, honest management, risk-taking – scorecard |
 
 | 7 | [07_early_plays_verified_nov2026.md](07_early_plays_verified_nov2026.md) | Early-play shortlist checked against Q2 FY27 results/news |
+| 8 | [08_valuation_and_management_check.md](08_valuation_and_management_check.md) | Valuation + management/governance check of the four early plays |
 
 ## Read this first (honesty note)
 - **Not investment advice.** Names are *research candidates to investigate*, not buy calls.
