@@ -17,6 +17,7 @@ Market focus: **India (NSE/BSE)** with a few global reference names. Say so if y
 | 10 | [10_stock_by_stock_positive_negative.md](10_stock_by_stock_positive_negative.md) | Every stock named so far: how it gains (+) and loses (−), with Q2 FY27 evidence where found |
 | 11 | [11_micro_sector_and_ipo_check.md](11_micro_sector_and_ipo_check.md) | Micro-sector niches, new IPOs (Tonbo, Avaada Electro, Garuda), SME-IPO risks and an IPO checklist |
 | 12 | [12_overlooked_diamond_in_dust_sectors.md](12_overlooked_diamond_in_dust_sectors.md) | Overlooked/boring sectors (recycling, medical devices, specialty chemicals, TIC) and a diamond-vs-trap screen |
+| 13 | [13_gap_closure_and_remaining_gaps.md](13_gap_closure_and_remaining_gaps.md) | Previously unchecked names now covered (recycling, defence, solar, medical devices, peptide CDMOs) plus what is still missing |
 
 ## Read this first (honesty note)
 - **Not investment advice.** Names are *research candidates to investigate*, not buy calls.
